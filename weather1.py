@@ -218,7 +218,7 @@ if temp is not None:
     if temp >= 28:
         card_content = "☀️ <b>한여름 폭염 날씨예요!</b><br>👉 코디 가이드: <span class='highlight'>민소매, 반팔티, 린넨 쇼츠, 선글라스</span>"
     elif 23 <= temp < 28:
-        card_content = "🌤 " <b>산뜻하고 가벼운 여름 기온이에요.</b><br>👉 코디 가이드: <span class='highlight'>반팔 셔츠, 슬림 면바지, 오픈형 샌들</span>"
+        card_content = "🌤️ <b>산뜻하고 가벼운 여름 기온이에요.</b><br>👉 코디 가이드: <span class='highlight'>반팔 셔츠, 슬림 면바지, 오픈형 샌들</span>"
     elif 20 <= temp < 23:
         card_content = "🍃 <b>선선하고 부드러운 봄/가을 온도대입니다.</b><br>👉 코디 가이드: <span class='highlight'>옥스퍼드 셔츠, 니트조끼, 데님 팬츠</span>"
     elif 17 <= temp < 20:
